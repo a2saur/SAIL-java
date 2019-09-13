@@ -1,7 +1,7 @@
 package com.atsaur;
 
 public class PrimitiveDataStructures {
-    PrimitiveDataStructures(){
+    void explain(){
         String myStr = "Hello";
         Integer myInt = 2147483647;
         Boolean myBool = Boolean.FALSE;
